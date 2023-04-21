@@ -1,0 +1,67 @@
+Core Azure architecture components
+
+Region:
+A region is a geographical are aon the planet containing at least one , but potentially multiple datacenters that are nearby and networked togehter with a low-latency network.
+
+Resources:
+Resources are instances of services that you create , like virtual machines , or SQL databases.
+
+Ressource groups:
+Resources are combined into resource gropus, which act as a logical container into whcih Azure resource like web apps,databases, and storage accounts are deployed and managed.
+
+Subscription:
+A subscription groups toegther user accounts and the resources that have been created by those user accounts.
+
+Management grouos:
+These gropus help you manage access,policy and compliance for multiple subscriptions
+
+Azure Religons, and religion pairs
+
+ A religion is a geographiocal area on the planet that contains at least one but potentially multiple datac
+
+Availabilty zones:
+
+Availaibity zones are physicall separate datacenters within an azure region.Each availablity zone is made up of one or monre datacenters equipped with independent power, cooling and networking
+	Not every region has neccessary datacenters.
+
+Zonal Services
+	You pin the resource to a specific zone
+Zonal reduntantservices:
+	The platform replicates automatically across zones .
+Non-regional services:
+	Services are always available from azure geographies and are resilent to zone-wide outages
+
+Azure region pairs:
+
+	Availabilty zones are created by using one or more datacenters.
+
+what is a region pair
+	Each azure region is always paired with another region within the same geography 
+
+RBAC(Azure role based access control)
+
+Benifits of using Resouce Manager
+Manage your infra structure through declarative templates rather than scnpts . A Resource Mamnger femplatc is a -JSON file that defines what you want to deploy to Azure. Deploy, manage, and monitor all ithe resources for your solution as a group, rather than handling these resources individually. Redcploy your solution throughout the development life cycle and have confidence that your resources are deployed in a consistent state. Definc the dependencics between resources so they're deployed in the corect order Apply access control to all services because RBAC is natively intcgrated into the managcmcnt platfom. Apply tags to resources to logically organize all the resources in your subscription Clanify your oganization's billing by viewing costs for a group of resource that share the same tag.
+
+Subscription limits
+
+• Subscriptions are bound me hard limitations.
+
+• For example, the maximum number of Azure Express Route circuits per subscription is 10.
+
+. Those limits should be considered as you create subscriptions on your account.
+
+If there's a need to go over those limits in particular scenarios, you might need additional subscriptions.
+
+Important facts about managenient groups
+10,000 management groups can be supported in a single directory.
+A management group tree can support up to six levels of depth. This
+limit doesn't include the root leyel or the subscription level.
+Each management group and subscnption can suppont only one
+parent.
+Each management group can have many children
+All subscnptions and management groups are within a single.
+
+Azure Subcription
+
+A subscription privides u with authenicated and authorized access to azure products and services it also allows you to provison resources.

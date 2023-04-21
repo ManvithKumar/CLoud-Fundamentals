@@ -1,0 +1,43 @@
+Virtual Networks
+
+Azure virtual networks (Vnet) is the fundamental building block for you private network in Azure
+
+AZure virtual network is the representationof your own network in the cloud.
+
+Key Features:
+Internet communication
+Comunicate between Axure resources
+Route network traffic
+Communicate with on-premises resources
+Filter network traffic
+Connect virtual networks.
+
+UDR
+user defined routing is a significant update to azure's virtual networks as this allows network admins to control the routing tables btw subnets within a Vnet.
+
+VPN Gateway
+
+A VPN gateway is a specifc type of virtual network gateway, which is used to send encrypted traffic btw an azure virtual network and an-premises location over the public internet.
+
+All transferred data is encrypted in aprivate tunnel as it 	crosses the internet
+
+Peering 
+
+Virtual networks peering enables us to connect two VNet in the same or across regions.If both of the virtual networks are in azure and also within the same region, then you can use peering.
+
+Global Peering
+
+If we have a virtual network in azure that exists in different regions, then we can use global peering
+
+Site to Site
+
+On premises virtual network, we may have other virtual networks existing int other cloud providers.
+
+Express Route
+
+We have a bussiness requirement where this connection btw our on-premises data center and virtua network should be on aprivate channel of communication
+
+Points to remember while peering
+
+Peering btw VNets is allowed in the same subscriptions
+	

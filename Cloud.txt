@@ -1,0 +1,110 @@
+Cloud
+	Cloud refers to a network or internet.
+	Cloud is something which is present at remote location.
+	Cloud can provide services over network public networks or on private networks like WAN,LAN.
+	Applications such as email,web conference.
+
+CLoud Computing
+
+	cloud Computing is the delivery of different services through the internet.
+	Enables tools and applications like data storage,servers networks.
+	on-demand services like compute,storage and networking etc
+Cloud Computing Provides:
+	
+	Pay as a you go payment mode.
+	Is accessible from most part of the world
+	Can be accessed through internet
+	Vendor takes care of manageing andmonitoring these services.
+	The resouces provided can scale up and down depending upon the requirement.
+Benfits of having not data-center:
+
+	Less management
+	Less investment
+	Less operations
+	Focus on bussiness
+
+Azure fundamentals
+
+	Azure core compute
+	Network
+	Storage
+	Database services
+	Cloud security best practices
+	Iot and machine learning
+
+Characteristics of Cloud Computing 
+	on-demnd self-service
+	Broad network access
+	Resource pooling 
+	Rapid elastiicty
+	Measured services
+
+Advantages of Cloud
+
+	Cost 
+	Agility
+	Service Quality
+	Integration of latest technology
+	High Availabilty
+	Reliability with Real time failover
+	Disaster recovery
+	Ease of Management
+
+Benefits of cloud computing 
+
+Availability = uptime/uptime+downtime
+uptime :- computer indistry term used for the time during which a computer is operational.
+downtime :- time when it isnt operational. 
+
+
+Levels of availability
+levels		Percent of uptine 	Downtime per year 	Downtime per day	
+4 Nine		99.99%			52.6 Minutes		8.6 seconds
+5 Nine		99.999%			5.25 Minutes		0.86 seconds
+6 Nine		99.99999%		31.5 Seconds		8.6 milliseconds
+
+
+Scalabilty
+:
+Vertical Scaling 
+Horizontal Scaling
+
+Elasticity:
+Ability of a system to automatically grow and shrink based on application demand
+
+Agility:
+	The ability to chane rapidly based on changes to market or envirnoment
+	Agility is the ability to allocate and deallocate resource
+	Agility is acheived in cloud computing because of its elasticity and flexibilty
+
+Fault Tolerance:
+	Fualt tolerance is the ablity to remain up and running during component and service failures.
+
+	The ability of a system to hancle faults like:
+	Power
+	Networking 
+	Hardware failures
+
+Disaster Recovery:
+	 The ability of a system to recover from failuere within a period of time, and how much data is lost
+	 Disaster is a serious diruption of services caused
+
+CapEx and OpEx
+CapEx:
+	One time aproach
+	Property or equipment
+	Longer life span
+	It is the initial spending of money
+	the up front cost from CaopEx has a value the reduces over time
+OpEx:
+	It is like a pay as you go
+	Operating cost
+	Life span depends on the payment
+	Consumables, wages , rent, maintaince and repair of machinary
+
+Consumption based model
+
+pay for what you use
+pay per minute
+pay per hour 
+pay per execution

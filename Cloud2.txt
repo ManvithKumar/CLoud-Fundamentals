@@ -1,0 +1,183 @@
+Typesof cloud computing
+	-Based on deployment
+		-Pivate
+		-Public
+		-Hybrid
+	-Based on Service Model	
+		-Infrastructure as service
+		Platform a service
+		Software a service
+Software as Service for customers
+
+Saas providers provide fully functionally web-based application on demand to customers
+This service makes the users connnect to the appliactions theough the  internet on the subscription basis
+Cloud providers leases applications or software which aere owned by them to its client
+
+Saas Components:
+	Bussiness Services
+	Document Management
+	Social Networks
+	Mail Service
+
+Advantages of Saas clloud computing layer
+
+Saas is easy to buy
+One to many
+Less hardware required for Saas
+low maintance required for Saas
+No special software or hardware versions required
+Multidevice support
+API integration
+No client-side installation
+
+Platform as a Service for developers
+
+Paas provides an envirnoment for building, testing a nd deploying software aplications.
+The goal of Paas is to help you create an application quicklyv without managing the underlying infratucre
+Paas requires less user managemnt.Only app and data to run is to be done by Paas
+Ex:Azure DB SQL and azure app
+
+Paas Components:
+Programming languages
+Applications frameworks
+Databases 
+Other tools
+
+Advantages of Paas
+
+Simplifed development
+lower risk
+prebuilt bussiness functionality
+instant community
+scalability
+
+Infrastructure as a service - for admins
+
+Iaas is also known as Hardware as aservice
+This is referred to as shared responsibilty model,Most flexible category of cloud services.It aims to give you the most control over the provided hardware that runs your applicaions.
+Iaas requires the most user management of all the cloud services
+Ex: VM's
+
+Iaas provider provides 
+Compute
+Storage
+Network
+Load balancers 
+
+Advantages of Iaas cloud computing layer
+
+Shared infracture
+Web access to the resource
+Pay as per use model
+Focus on the core bussiness
+on-demand scalabilty
+
+Azure Username and password
+
+RAVIRAJ.ETHNOTECH@GMAIL.COM
+Ethnotech@1234
+
+Iaas 
+Our control:
+		Data
+		Application
+		Databases
+		Operating system
+Control
+		Virualization
+		Physical server
+		Network and storage
+		Data center
+
+Paas 
+Our control:
+		Data
+		Application
+Control
+		Databases
+		Operating system
+		Virualization
+		Physical server
+		Network and storage
+		Data center
+
+Saas 
+Our control:
+		Data
+Control
+		Application
+		Databases
+		Operating system
+		Virualization
+		Physical server
+		Network and storage
+		Data center
+
+Shared Responsibilty
+	Saas:
+		information and data
+		devices 
+		accounts and identities
+	Paas:
+		Applications ,Network contols
+
+Serverless Computing 
+	Serverless computing enables developers to n=build applications faster by eliminating the need for them to manage infrastrutcure. With serverless application, the cloud service provideer automatically prvisions. scales and manages the infrastructure required to run the code.
+
+Public Cloud
+	Services offered over the public internrt and avilable to anyiione who wants tp purchase them
+
+Advantage of Public cloud
+
+Low cost
+Location independent
+Save time
+
+Disadvantage of Public cloud
+
+Low Security
+Performance
+Less Customizable
+Quickly and easily set up
+Bussiness Agility
+Scalabilty and relaibilty
+
+Private Cloud
+	Services offered over the internet or over a private internal network to only select users, not the general public.It is a cloud based infrastructure used by stand-alone organizations.
+	Advantages: More flexibilty, Improved security , High scalabilty
+
+Advantage of Private cloud
+
+More Control
+Security & privacy 
+Improved performance
+
+Disadvantage of Private cloud
+
+High cost
+Restricted area of operations
+Limited scalabilty
+Skiiled people
+
+Hybrid Cloud
+
+Combination of public and private clouds; scale private infrastruture
+
+Advantage of Hybrid cloud
+
+Flexible and secure
+Cost effective
+Security
+Risk Management
+
+Disadvantage of Hybrid cloud
+
+Networking issues
+Infrastruture compatibility
+Reliability
+
+Community Cloud
+
+Community cloud is a cloud infrastructure that allows systems and services to be accessible by a group of several organization
+
+
