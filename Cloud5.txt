@@ -41,3 +41,52 @@ Points to remember while peering
 
 Peering btw VNets is allowed in the same subscriptions
 	
+
+Host and Deploy
+
+Step-1: Login to Azure Portal (https://portal ature.com/
+
+Step-2 Navigate to the virage account that you have created above
+
+Step 3: Now click on the State website link from the left navigation.
+
+Step-4. Click on the Enabled option for the State website option Provide the value for the option Index document name as index.html and Error document path as 404.html Then click on the Save button to save the changes.
+
+Step-5 Once you clicked on the Save button, it will populate the value for the primary and secondary end points.
+
+Deploy Website On Azure
+
+
+Step-1: Create an empty folder in your local system and then give
+a name to tna folder on your choice
+
+
+Step-2 Open tho Visual Studio Code and click an tho Explorer icon
+Now click on the Open Foider button to open tho falder thal you
+have created above
+
+(Install )
+Step-3: After operating the folder, click on the new file button to
+creato a new file and name it as index.html
+
+Step-4 Open the index .htmnl fio and paste the below lino af code
+
+Step-5: Create another file and name it as 404.html and paste the
+below code in the 404 html. file
+
+Step-6 Right-clck an the down to ihe folder you have created and
+tien cick an the Deploy to Static Website ... option
+
+Step-7 Now cick on tho Sign in to Azure. buton to algn In Enter
+the Azuro credential to login.	
+
+Step-9 Now sinco you have Loyged in to tha Pontal arceesshily.I
+mi prompl you to selecl the storage account fo cick an
+the storgo occount in the Visual sudio coda kindos
+
+Step-10: Now in the same Viunl studio codo screen, you can sca
+doen thn pop up saying thal Deplayment comolcte. Cick on
+tho Browso to wchsito to Drowne th static sie
+
+Grcp-11 Now after clicking an tho frowse to website button, n1 wa
+bruwso ths webaite from tha storage account Check e
